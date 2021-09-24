@@ -83,7 +83,7 @@ section {
 }
 
 .wrapper {
-  min-height: 100%;
+  min-height: 90%;
   overflow: hidden !important;
 }
 
@@ -91,7 +91,7 @@ section {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 14px;
   line-height: 17px;
   padding: 0 0 0 26px;
