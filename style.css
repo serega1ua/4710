@@ -24,13 +24,14 @@ li {
 
 .container {
   max-width: 1300px;
+  max-width: 1201px;
   margin: 0 auto;
   padding: 0 20px;
 }
 
 a {
   text-decoration: none;
-  color: #132047;
+  color: #132057;
 }
 a:hover {
   text-decoration: underline;
@@ -38,7 +39,7 @@ a:hover {
 
 p {
   font-size: 16px;
-  line-height: 21px;
+  line-height: 22px;
   text-align: center;
   color: #545F82;
 }
